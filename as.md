@@ -11,7 +11,7 @@
 
 ### 托管區02 - - 服務提供者:微軟 - - 賬號類型:國際int - - 托管區總空間:5TB - - 地區:香港-HK - - 賬號許可證類型:Office 365 A1
 
-備用站點1:https://pkpl.lostu.me(部署于vercel)
+備用站點1:https://pkpl.lostu.me     (部署于vercel)
 
 
 
